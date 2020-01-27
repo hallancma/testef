@@ -1,0 +1,1 @@
+This is my first ptoject using JavaScript concepts, NodeJs as backend system and SQLite database to implemenmt the structure of the system
